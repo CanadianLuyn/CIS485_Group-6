@@ -1,0 +1,14 @@
+
+Rough Storyline
+
+You are an employee at Corazon. You have just grabbed refreshments at the conference when you notice someone you know in the distance. You are about to head over to talk to them when you are stopped by a stranger.
+
+They introduce themselves as an independent researcher, and they let you know that they found a vulnerability.
+
+
+•	You ignore the researcher and leave to talk to the person you know. Someone else is told about the vulnerability, you are asked why you didn’t listen to the researcher. Fired? <- will flesh out more once branching is discussed with Mehak
+•	You listen to the researcher. Immediately try to have your team work on fixing the vulnerability, and cause something to go wrong as they are working outside of their scope. Fired? <- will flesh out more once branching is discussed with Mehak
+•	You listen to the researched and discuss the vulnerability with the team. Result is what is found in the case study – nothing is changed so it remains in the developers competence and the team is aware of the potential, though limited risk.<- will flesh out more once branching is discussed with Mehak
+    o	Your team has to decide whether to focus on money or charity work
+       	Focus on money. Company does well but only focuses on patients above poverty line. Another company comes out and helps patients below the poverty line, they have better PR and many wonder why Corazon didn’t work with charities to assist those below the poverty line.
+       	Work with charities to provide more access for those living below the poverty line. Company still performs well, and has great PR for helping those who can’t afford this amazing medical technology otherwise. Everyone in the company feels good about themselves.
